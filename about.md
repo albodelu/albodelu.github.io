@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Al, an Android Developer since 2010, formerly a .NET/Mono Developer, that was born and lives in Barcelona.
+Hi, I'm Al, an Android Developer since 2010, formerly a .NET/Mono Developer, that was born and lives in Barcelona, Catalonia, Spain.
 
 ### More Information
 
