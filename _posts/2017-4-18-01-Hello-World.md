@@ -3,7 +3,7 @@ layout: post
 title: Hello World! - Your blog in a few minutes!
 ---
 
-Hi, I'm Al, an Android Developer learning the Kotlin programming language and writing his first blog!
+Hi, I'm Al, an Android Developer learning the [Kotlin programming language](https://kotlinlang.org/) and writing his first blog!
 
 I'm doing it in English because I want to practice it but sometimes i'll share links in Spanish, sorry about that. 
 
