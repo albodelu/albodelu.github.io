@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're up and running!
+title: Hello World! - We're up and running!
 ---
 
 Hi, I'm Al, an Android Developer learning the Kotlin programming language and writing his first blog!
