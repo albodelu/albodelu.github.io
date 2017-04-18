@@ -9,7 +9,7 @@ I'm doing it in English because I want to practice it but sometimes i'll share l
 
 Below you'll find instructions to create a blog in minutes using [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/).
 
-But afters years thinking about it, I was lazy and used this [short video in Spanish](https://youtu.be/lsvRyE5tPQQ).
+But after years thinking about it, I was lazy and used this [short video in Spanish](https://youtu.be/lsvRyE5tPQQ).
 
 Thanks to [Antonio Leiva](https://antonioleiva.com/), the author of the video and [this awesome Kotlin book](https://antonioleiva.com/kotlin-android-developers-book/) I just started to read!
 
