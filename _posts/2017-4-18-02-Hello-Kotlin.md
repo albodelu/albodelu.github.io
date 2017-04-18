@@ -3,7 +3,7 @@ layout: post
 title: Hello Kotlin! - Your Kotlin App in a few minutes!
 ---
 
-In the previous post I talked you about [Antonio Leiva's Kotlin book](https://antonioleiva.com/kotlin-android-developers-book/) and [how to create a blog in a few minutes](https://albodelu.github.io/01-Hello-World/). In this post I'm going to explain you how I created [my first Kotlin App](https://github.com/albodelu/first-project-kotlin) in a few minutes!
+In the previous post I talked you about [Antonio Leiva's Kotlin book](https://antonioleiva.com/kotlin-android-developers-book/) and [how to create a blog in a few minutes](https://albodelu.github.io/01-Hello-World/). In this post I'm going to explain you how I created [my first Kotlin App in a few minutes!](https://github.com/albodelu/first-project-kotlin)
 
 I bought his book because I want the best sources and reading when I improve my skills, by the way, Mark Murphy updated [his android Development book](https://commonsware.com/blog/2017/04/17/busy-coders-guide-android-development-8.5-released.html) to version 8.5, I'm also a big fan.
 
